@@ -1,0 +1,2 @@
+# OpportunisticInformationBottleneck
+Library for Opportunistic Information Bottleneck
